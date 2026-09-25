@@ -27,4 +27,4 @@ Sou um desenvolvedor focado em construir soluções eficientes e explorar novas 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
-![Estatísticas do GitHub de Pedro Henrique](https://github-readme-stats.vercel.app/api?username=euopedror&show_icons=true&theme=radium&v=1)
+![Estatísticas de Pedro Henrique](https://streak-stats.demolab.com?user=euopedror&theme=radium)
